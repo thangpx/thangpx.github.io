@@ -13,7 +13,7 @@ group :jekyll_plugins do
     gem 'jekyll-link-attributes'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+    gem 'wdm', '>= 0.1.0'
     gem 'unicode_utils'
     gem 'webrick'
 end
